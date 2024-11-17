@@ -9,6 +9,8 @@ By leveraging various machine learning techniques, the project provides data-dri
 
 #### Dataset
 
+Please download dataset from kaggle.   
+
 - Invoice details (Invoice code, Date)
 - Product information (StockCode, Description, Price)
 - Customer details (CustomerID, Country)
