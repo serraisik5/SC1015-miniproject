@@ -60,9 +60,11 @@ Prioritize Category 3 products, as they significantly impact overall sales perfo
 
 Extended Analysis:    
 Integrate external factors like holidays, promotions, and regional preferences for richer predictive power.   
+
 ### Contributors
+Group: FEL1 
 @serraisik5 : Data preparation, Modeling, Outcomes   
-@derenolgun : EDA, Insights, Presentation
+Deren Olgun : EDA, Insights, Presentation
 
 
 
